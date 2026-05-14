@@ -120,7 +120,8 @@ Select your board (e.g. *ESP32 Dev Module*) and the correct COM port, then click
 | SW1 | Jump to HTTP log page (page 4) |
 | SW2 | Previous page |
 | SW3 | Next page |
-| SW5 | Cycle LCD refresh rate (150 ms → 1 s → 2 s → 3 s → 4 s) |
+| SW4 | Cycle LCD refresh rate (150 ms → 1 s → 2 s → 3 s → 4 s) |
+| SW5 | Clear IR sensor count (reset to 0) |
 
 ## Notes & Caveats
 
