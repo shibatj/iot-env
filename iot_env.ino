@@ -16,13 +16,10 @@
 
 // --- ตั้งค่า WiFi และ Supabase ---
 
-const char* WIFI_SSID = "Heizenberg_2.4G";
-
-const char* WIFI_PASS = "P@ssw0rds";
-
-const char* SUPABASE_URL = "https://lgzgwojotjgiaqihihfu.supabase.co/rest/v1/sensor_data"; // endpoint = base + table name
-
-const char* SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imxnemd3b2pvdGpnaWFxaWhpaGZ1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ1MTQwMTAsImV4cCI6MjA5MDA5MDAxMH0.at54v7gfPySRo_Zl_io2z1R0Sy7Ay-yKiWJ0iwnMuwY";
+const char* WIFI_SSID = "YOUR_WIFI_SSID";
+const char* WIFI_PASS = "YOUR_WIFI_PASSWORD";
+const char* SUPABASE_URL = "https://<your-project>.supabase.co/rest/v1/<your-table>";
+const char* SUPABASE_KEY = "YOUR_SUPABASE_ANON_KEY";
 
 
 
